@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Environments
 venv/
 env/
@@ -60,3 +61,13 @@ frontend/.env.local
 .Trashes
 ehthumbs.db
 Thumbs.db
+=======
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+>>>>>>> 25d86599cbc62826c7b3a7d01ef84a85a5037d58

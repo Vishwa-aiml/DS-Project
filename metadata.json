@@ -1,0 +1,6 @@
+{
+  "name": "Thermalens - Urban Heat Intelligence",
+  "description": "Urban heat risk analytics and intelligence platform for predicting localized heat stress, vulnerability indexing, and strategic intervention planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
